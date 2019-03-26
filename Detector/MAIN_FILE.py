@@ -5,13 +5,13 @@
 
 
 import cv2
-import ctypes   
+#import ctypes   
 import numpy as np
 #import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
-DELETE COMMENT ON THESE TWO LINES
-from matplotlib import pyplot as plt
-from matplotlib import interactive
+#get_ipython().run_line_magic('matplotlib', 'inline')
+#DELETE COMMENT ON THESE TWO LINES
+#from matplotlib import pyplot as plt
+#from matplotlib import interactive
 
 
 
